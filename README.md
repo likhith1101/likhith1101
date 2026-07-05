@@ -4,7 +4,8 @@
 
 **M.E. VLSI Design and Microelectronics · BITS Pilani Hyderabad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/likhitheshwargaddam)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/likhitheshwargaddam)-->
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/likhith1101)
 
 </div>
