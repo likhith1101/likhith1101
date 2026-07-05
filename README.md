@@ -21,7 +21,7 @@ My work sits at the intersection of **digital design**, **physical design**, and
 
 ## Projects
 
-### [RISC-V Pipelined Processor](https://github.com/likhith1101/riscv-processor-design)
+### [RISC-V Pipelined Processor](https://github.com/likhith1101/RISCV_PROCESSOR_DESIGN)
 > 5-stage RV32I pipeline with full hazard resolution — data forwarding, load-use stall detection, branch flush — extended with a custom modulo multiplier hardware unit
 
 [![Pipeline](https://img.shields.io/badge/Pipeline-5--Stage-00C8D7?style=flat-square)]()
@@ -36,7 +36,7 @@ My work sits at the intersection of **digital design**, **physical design**, and
 
 ---
 
-### [MAGIC-1000 · RTL to GDSII](https://github.com/likhith1101/rtl-to-gdsii-flow)
+### [MAGIC-1000 · RTL to GDSII](https://github.com/likhith1101/Magic1000_RTL_TO_GDS_project)
 > Complete physical design of a 4-bit MoS₂ processor from the *Nature Electronics* paper — RTL → synthesis → floorplan → placement → CTS → routing → DRC-clean GDSII
 
 [![Verilog](https://img.shields.io/badge/Verilog-RTL-00C8D7?style=flat-square)]()
