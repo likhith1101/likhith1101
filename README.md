@@ -2,7 +2,7 @@
 
 # Gaddam Likhitheshwar
 
-**M.E VLSI Design and Microelectronics · BITS Pilani Hyderabad**
+**M.E. VLSI Design and Microelectronics · BITS Pilani Hyderabad**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/likhitheshwargaddam)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/likhith1101)
@@ -87,7 +87,7 @@ My work sits at the intersection of **digital design**, **physical design**, and
 
 ## Education
 
-**B.E. Electronics & Communication Engineering**
+**M.E. VLSI Design and Microelectronics**
 BITS Pilani, Hyderabad Campus
 
 ---
